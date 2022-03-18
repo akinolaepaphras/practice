@@ -1,0 +1,112 @@
+/* typography */
+
+h1 {
+    font-size: 25px;
+    margin: 40px 20px 20px 25px;
+}
+
+
+
+.fillers {
+    font-size: 15px;
+}
+
+/* layout */
+
+h1 {
+    color: white;
+}
+body {
+    margin: 0px;
+    background-color:#000000;
+}
+.fillers {
+    color: white;
+    margin: 20px 25px;
+}
+
+
+.Name {
+    background-color: transparent;
+    color: #eeeeee;
+    outline: none;
+    border-right: none;
+    border-left: none;
+    border-top: none;
+     width: 200px;
+     margin: 21px 0px;
+    
+    
+}
+.Name:focus {
+    outline: none;
+}
+.Birthdate {
+   background-color: transparent;
+    color: #eeeeee;
+    outline: none;
+    border-right: none;
+    border-left: none;
+    border-top: none;
+     width: 200px;
+     margin: 21px 0px;
+    
+    
+}
+
+.Gender {
+   background-color: transparent;
+    color: #eeeeee;
+    outline: none;
+    border-right: none;
+    border-left: none; 
+    border-top: none;
+    width: 200px;
+    margin: 21px 0px;
+    
+}
+
+.Email {
+    background-color: transparent;
+    color: #eeeeee;
+    outline: none;
+    border-right: none;
+    border-left: none;
+    border-top: none;
+     width: 200px;
+     margin: 21px 0px;
+    
+    
+}
+
+.Phone {
+    background-color: transparent;
+    color: #eeeeee;
+    outline: none;
+    border-right: none;
+    border-left: none;
+    border-top: none;
+     width: 200px;
+     margin: 21px 0px;
+    
+    
+}
+
+.Submit {
+    height: 30px;
+    width: 100px;
+    background-color: green;
+    color: white;
+    margin: 22px 3px;
+    border: none;
+    border-radius: 15px;
+    
+}
+
+img {
+    float: left;
+    padding-right: 20px;
+}
+    
+ 
+
